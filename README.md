@@ -1,6 +1,6 @@
 ## Welcome to my playgroud! 🏖️
 
-This is a space for me to explore, learn and grow in Data Science and Machine Learning. 🤖
+This is a space I use to explore, learn and grow in Data Science and Machine Learning. 🤖
 
 Introduction to repositories:
 1. [streamlit-deployment](https://github.com/kotharivineet/streamlit-deployment):
