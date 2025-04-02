@@ -5,6 +5,8 @@ This is a space for me to explore, learn and grow in Data Science and Machine Le
 Introduction to repositories:
 1. [streamlit-deployment](https://github.com/kotharivineet/streamlit-deployment):
    This repository contains a lightweight, interactive Covid-19 demo dashboard built using Streamlit, containerized with Docker, and ready for deployment on Kubernetes.
+2. [probabilistic-machine-learning](https://github.com/kotharivineet/probabilistic-machine-learning):
+   This repository explores different techniques that can be used to estimate the two types of uncertainties in Machine Learning.
 
 <!--
 **kotharivineet/kotharivineet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
